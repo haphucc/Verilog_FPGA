@@ -1,0 +1,16 @@
+{E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/COMPARATOR_4bit/comparator_4.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\COMPARATOR_4bit\comparator_4.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module comparator_4
+
+Top level modules:
+	comparator_4
+
+} {} {}} {E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/COMPARATOR_4bit/TB_comparator_4.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\COMPARATOR_4bit\TB_comparator_4.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module comparator_4
+-- Compiling module TB_comparator_4
+
+Top level modules:
+	TB_comparator_4
+
+} {} {}}

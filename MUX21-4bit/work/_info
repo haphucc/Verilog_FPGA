@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/HEX-2-SEG
+T_opt
+!s110 1711819101
+VzP3[4Kck6m0Z:Rag_7Q^W1
+04 10 4 work TB_mux21_4 fast 0
+=1-74e6e20b507e-6608495c-34d-23fc
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vmux21_4
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >zVnIRDh^IjN89>H6a_MQ1
+Ia3fQZTdeT_HBCJT0PoOk>0
+Z3 dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/MUX21-4bit
+w1711819053
+8E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\mux21_4.v
+FE:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\mux21_4.v
+L0 2
+Z4 OL;L;10.6d;65
+Z5 !s108 1711819086.000000
+!s107 E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\mux21_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\mux21_4.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vTB_mux21_4
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 EKYS@B>V^Yn?L869<X_433
+IPZkD;gU791SoZmLeo^Geh3
+R3
+w1711819080
+8E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\TB_mux21_4.v
+FE:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\TB_mux21_4.v
+L0 1
+R4
+R5
+!s107 E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\TB_mux21_4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX21-4bit\TB_mux21_4.v|
+!i113 0
+R6
+R1
+n@t@b_mux21_4

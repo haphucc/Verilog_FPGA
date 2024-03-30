@@ -1,0 +1,16 @@
+{E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/PRIORITY_ENCODER_42/priority_encoder_42.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\priority_encoder_42.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module priority_encoder_42
+
+Top level modules:
+	priority_encoder_42
+
+} {} {}} {E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/PRIORITY_ENCODER_42/TB_priority_encoder_42.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\TB_priority_encoder_42.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module priority_encoder_42
+-- Compiling module TB_priority_encoder_42
+
+Top level modules:
+	TB_priority_encoder_42
+
+} {} {}}

@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/COMPARATOR_4bit
+vpriority_encoder_42
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5C^jLiYeO5L[H<I:CamBI1
+I1YOocH3>^9Yl2>Xi65Ddb0
+Z1 dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/PRIORITY_ENCODER_42
+w1711820900
+8priority_encoder_42.v
+Fpriority_encoder_42.v
+L0 1
+Z2 OL;L;10.6d;65
+Z3 !s108 1711821391.000000
+Z4 !s107 priority_encoder_42.v|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\TB_priority_encoder_42.v|
+Z5 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\TB_priority_encoder_42.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vTB_priority_encoder_42
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 2=B1MCkNY8B3E`9h:j6O_1
+IaP]CzGc8lbg27BC6P68;z1
+R1
+w1711821309
+8E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\TB_priority_encoder_42.v
+FE:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\PRIORITY_ENCODER_42\TB_priority_encoder_42.v
+L0 2
+R2
+R3
+R4
+R5
+!i113 0
+R6
+R7
+n@t@b_priority_encoder_42

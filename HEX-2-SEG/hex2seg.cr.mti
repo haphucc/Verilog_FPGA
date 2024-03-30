@@ -1,0 +1,16 @@
+{E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/HEX-2-SEG/hex2seg.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\HEX-2-SEG\hex2seg.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module hex2seg
+
+Top level modules:
+	hex2seg
+
+} {} {}} {E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/HEX-2-SEG/TB_hex2seg.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\HEX-2-SEG\TB_hex2seg.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module hex2seg
+-- Compiling module TB_hex2seg
+
+Top level modules:
+	TB_hex2seg
+
+} {} {}}

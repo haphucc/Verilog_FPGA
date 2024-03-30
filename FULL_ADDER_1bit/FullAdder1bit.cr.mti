@@ -1,0 +1,16 @@
+{E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/FULL_ADDER_1bit/FullAdder1bit.v} {1 {vlog -work work -vopt -stats=none {E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/FULL_ADDER_1bit/FullAdder1bit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FullAdder1bit
+
+Top level modules:
+	FullAdder1bit
+
+} {} {}} {E:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/FULL_ADDER_1bit/TB_FullAdder1bit.v} {1 {vlog -work work -vopt -stats=none {E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\FULL_ADDER_1bit\TB_FullAdder1bit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FullAdder1bit
+-- Compiling module TB_FullAdder1bit
+
+Top level modules:
+	TB_FullAdder1bit
+
+} {} {}}

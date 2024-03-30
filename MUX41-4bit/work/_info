@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/MUX21-4bit
+vmux21_4
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 UO:7O7g7lQfUDmieE<]EI2
+IeLo2DEP`M5b2kGH=RXz123
+Z1 dE:/DUT 2020/2023-2024_2/HDL_FPGA/Verilog/MUX41-4bit
+Z2 w1711819511
+Z3 8mux41_4.v
+Z4 Fmux41_4.v
+L0 1
+Z5 OL;L;10.6d;65
+Z6 !s108 1711819533.000000
+Z7 !s107 mux41_4.v|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX41-4bit\TB_mux41_4.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX41-4bit\TB_mux41_4.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vmux41_4
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 GA=5:aP86A`zG8ccZOU^=1
+I>;9n:aYj^hUa6Jl1@>Voo3
+R1
+R2
+R3
+R4
+L0 10
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+vTB_mux41_4
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 jV<>gEYaZ5=fJ`FAD3dR<1
+Ij04lFeIKK4T`NXOLIoOYk0
+R1
+w1711819528
+8E:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX41-4bit\TB_mux41_4.v
+FE:\DUT 2020\2023-2024_2\HDL_FPGA\Verilog\MUX41-4bit\TB_mux41_4.v
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+R10
+n@t@b_mux41_4
